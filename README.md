@@ -1,5 +1,4 @@
 # React Cryptocurrency Ranking
-
 This project has a Responsive design.\
 It was built using TypeScript, ReactJS, Redux Toolkit, Tailwind CSS, Google Firebase and CoinGecko API.
 
@@ -10,15 +9,14 @@ Project includes:
 - Registration. [ Email | Password ]
 - Profile page.
 - Watch List for coins.
+- Dark/Light theme.
 
 ## Available Scripts
 In the project directory, you can run:
 ### `npm install`
-
 To install all dependencies from the project.
 
 ### `npm start`
-
 To run the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
